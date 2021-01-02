@@ -1,0 +1,16 @@
+[
+{
+  "modid": "arrowassist",
+  "name": "Arrow Assist",
+  "description": "Mod to assist with locating arrows",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "https://github.com/Kyu/ArrowAssist",
+  "updateUrl": "",
+  "authorList": ["Precious O."],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
